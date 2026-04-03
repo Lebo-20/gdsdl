@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+.env
+proxy/node_modules/
+temp/
+goodshort_*
+node_modules/
+results.txt
+home_raw.json
+processed.json
+output.txt
+test_pipeline.py
+compare_apis.py
